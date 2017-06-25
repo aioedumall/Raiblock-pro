@@ -8,3 +8,14 @@
 [0624/223945.932:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
 [0624/224047.048:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
 [0624/230033.249:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0624/230248.865:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0624/230707.132:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0624/230845.525:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0624/230845.669:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0624/230845.672:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0624/231054.646:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 99
+[0624/231442.997:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 7
+[0625/092026.342:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0625/092036.342:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 17
+[0625/092040.549:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 3
+[0625/092040.551:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 5
